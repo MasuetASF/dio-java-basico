@@ -5,12 +5,12 @@ public class Operadores04 {
      
     boolean c1 = true;
     boolean c2 = false; 
-
+    
     if (c1 && c2) {
-        System.out.println("as duas condições são verdadeiras");      
+        System.out.println("as duas condicoes sao verdadeiras");      
     }
     if (c1 || c2) {
-        System.out.println("UMA das condições é verdadeira");      
+        System.out.println("UMA das condicoes éeverdadeira");      
     }
     System.out.println("fim");
   }
