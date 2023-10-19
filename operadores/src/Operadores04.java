@@ -7,10 +7,10 @@ public class Operadores04 {
     boolean c2 = false; 
     
     if (c1 && c2) {
-        System.out.println("as duas condicoes sao verdadeiras");      
+        System.out.println("As duas condicões são verdadeiras");      
     }
     if (c1 || c2) {
-        System.out.println("UMA das condicoes éeverdadeira");      
+        System.out.println("UMA das condicões é verdadeira");      
     }
     System.out.println("fim");
   }
